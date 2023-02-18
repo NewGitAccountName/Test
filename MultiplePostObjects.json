@@ -1,0 +1,20 @@
+[
+    {
+        "name": "",
+        "gender": "",
+        "email": "",
+        "status": ""
+    },
+    {
+        "name": " ",
+        "gender": " ",
+        "email": " ",
+        "status": " "
+    },
+    {
+        "name": null,
+        "gender": null,
+        "email": null,
+        "status": null
+    }
+]
